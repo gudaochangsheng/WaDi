@@ -33,7 +33,7 @@ weight directions using learnable low-rank rotation angles. (Right) Overview of 
 
 ## 📈  Quantitative results
 <p align="center">
-<img src="./results-tab.png" alt="origin" style="width: 45%;margin-right: 20px;" /> 
+<img src="./results-tab.png" alt="origin" style="width: 90%;margin-right: 20px;" /> 
 </p>
 
 ## Citation
