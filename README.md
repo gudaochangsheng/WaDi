@@ -80,5 +80,6 @@ coming soon
 ## Acknowledgement
 
 This project is based on [Diffusers](https://github.com/huggingface/diffusers). Thanks for their awesome works.
+We sincerely acknowledge the excellent and inspiring prior work, [TiUE](https://github.com/sen-mao/Loopfree) and [SwiftBrush](https://github.com/VinAIResearch/SwiftBrush).
 ## Contact
 If you have any questions, please feel free to reach out to me at  `scitop1998@gmail.com`. 
