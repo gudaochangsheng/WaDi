@@ -75,7 +75,12 @@ coming soon
   journal={arXiv preprint arXiv:2603.08258},
   year={2026}
 }
-
+@inproceedings{li2025one,
+      title={One-Way Ticket: Time-Independent Unified Encoder for Distilling Text-to-Image Diffusion Models}, 
+      author={Li, Senmao and Wang, Lei and Wang, Kai and Liu, Tao and Xie, Jiehang and van de Weijer, Joost and Khan, Fahad Shahbaz and Yang, Shiqi and Wang, Yaxing and Yang, Jian},
+      booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+      year={2025},
+}
 ```
 ## Acknowledgement
 
