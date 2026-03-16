@@ -1,0 +1,20 @@
+accelerate launch --multi_gpu --num_processes 8 --gpu_ids='all' train_dkd_sd.py \
+  --pretrained_model_name_or_path "your model path" \
+  --train_data_dir "your dataset path" \
+  --resolution 512 \
+  --validation_prompts "" \
+  --validation_steps 500 \
+  --train_batch_size 16 \
+  --gradient_accumulation_steps 1 \
+  --set_grads_to_none \
+  --guidance_scale 1.5 \
+  --learning_rate 1.e-04 \
+  --learning_rate_lora 1.e-02 \
+  --lr_scheduler "constant" --lr_warmup_steps 0 \
+  --num_train_epochs 2 \
+  --checkpointing_steps 5000 \
+  --gradient_checkpoint \
+  --use_8bit_adam \
+  --enable_xformers_memory_efficient_attention \
+  --mixed_precision "fp16" \
+  --output_dir "your path"
