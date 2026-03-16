@@ -63,7 +63,7 @@ pip3 install -r requirements.txt
 ./train_dkd_pixart.sh
   ```
 
-### Inference
+## Inference
 coming soon
 
 ## Citation
