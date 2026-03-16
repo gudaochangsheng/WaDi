@@ -1,5 +1,11 @@
 # 🚀 [CVPR 2026]WaDi: Weight Direction-aware Distillation for One-step Image Synthesis
 
+
+<div align="center">
+<img src="./abstract.png" alt="demo" style="zoom:150%;" />
+  <br>
+</div>
+
 <div align="center">
 <img src="./motivation.png" alt="demo" style="zoom:150%;" />
   <br>
