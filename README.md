@@ -36,6 +36,36 @@ weight directions using learnable low-rank rotation angles. (Right) Overview of 
 <img src="./results-tab.png" alt="origin" style="width: 90%;margin-right: 20px;" /> 
 </p>
 
+## Training
+
+### Installation
+```shell
+# git clone this repository
+https://github.com/gudaochangsheng/WaDi.git
+cd WaDi
+
+# create new anaconda env
+conda create -n wadi python=3.8 -y
+conda activate wadi
+
+# install python dependencies
+pip3 install -r requirements.txt
+  ```
+### train
+```shell
+# Train WaDi on Stable Diffusion 1.5
+./train_dkd_sd1.5.sh
+
+# Train WaDi on Stable Diffusion 2.1
+./train_dkd_sd2.1.sh
+
+# Train WaDi on PixArt-alpha
+./train_dkd_pixart.sh
+  ```
+
+### Inference
+coming soon
+
 ## Citation
 
 ```
