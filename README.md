@@ -75,6 +75,9 @@ pip3 install -r requirements.txt
 ## Inference
 coming soon
 
+## Training SwiftBrushV2
+[An unofficial implementation of SwiftBrushV2](https://github.com/gudaochangsheng/SwiftBrushV2)
+
 ## Citation
 
 ```
