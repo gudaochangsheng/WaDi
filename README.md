@@ -1,3 +1,9 @@
+
+<div align="center">
+<img src="./wadi-logo.png" alt="demo" style="zoom:50%;" />
+  <br>
+</div>
+
 # 🚀 [CVPR 2026]WaDi: Weight Direction-aware Distillation for One-step Image Synthesis
 
 [![arXiv](https://img.shields.io/badge/arXiv-WaDi-<COLOR>.svg)](https://arxiv.org/abs/2603.08258) [![arXiv](https://img.shields.io/badge/paper-WaDi-b31b1b.svg)](https://arxiv.org/pdf/2603.08258) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/WaDi )
