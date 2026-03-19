@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="./wadi-logo.png" alt="demo" style="zoom:50%;" />
+<img src="./wadi-logo.png" alt="demo" style="zoom:10%;" />
   <br>
 </div>
 
