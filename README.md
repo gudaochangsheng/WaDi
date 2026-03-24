@@ -86,6 +86,8 @@ coming soon
 
 ## Citation
 
+If you find WaDi useful, please consider giving our repository a star (⭐) and citing our [paper](https://arxiv.org/abs/2603.08258).
+
 ```
 @article{wang2026wadi,
   title={WaDi: Weight Direction-aware Distillation for One-step Image Synthesis},
