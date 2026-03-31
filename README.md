@@ -75,9 +75,9 @@ weight directions using learnable low-rank rotation angles. (Right) Overview of 
 <img src="./results-tab.png" alt="origin" style="width: 90%;margin-right: 20px;" /> 
 </p>
 
-## Training
+## 🏋️ Training
 
-### Installation
+### 🛠️ Installation
 ```shell
 # git clone this repository
 https://github.com/gudaochangsheng/WaDi.git
@@ -90,7 +90,7 @@ conda activate wadi
 # install python dependencies
 pip3 install -r requirements.txt
   ```
-### train
+### 🎯 train
 ```shell
 # Train WaDi on Stable Diffusion 1.5
 ./train_dkd_sd1.5.sh
@@ -102,7 +102,15 @@ pip3 install -r requirements.txt
 ./train_dkd_pixart.sh
   ```
 
-## Inference
+## 📦 Model Weights
+
+| Model | Hugging Face | ModelScope |
+|-------|--------------|------------|
+| WaDi-SD2.1 | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2) |
+| WaDi-SD1.5 | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2) |
+| WaDi-PixArt | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2) |
+
+## 🎬 Inference
 coming soon
 
 ## Training SwiftBrushV2
