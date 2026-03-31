@@ -111,7 +111,13 @@ pip3 install -r requirements.txt
 | WaDi-PixArt | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2) |
 
 ## 🎬 Inference
-coming soon
+```shell
+# inference sd model
+python infer_sd_model.py
+
+# inference pixart
+python infer_pixart.py
+  ```
 
 ## Training SwiftBrushV2
 [An unofficial implementation of SwiftBrushV2](https://github.com/gudaochangsheng/SwiftBrushV2)
