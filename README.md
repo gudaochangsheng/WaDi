@@ -9,6 +9,25 @@
 [![arXiv](https://img.shields.io/badge/arXiv-WaDi-<COLOR>.svg)](https://arxiv.org/abs/2603.08258) [![arXiv](https://img.shields.io/badge/paper-WaDi-b31b1b.svg)](https://arxiv.org/pdf/2603.08258) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/WaDi )
 
 <div align="center">
+  <a href="https://gudaochangsheng.github.io/">Lei Wang</a><sup>1</sup>,
+  <a href="https://gudaochangsheng.github.io/WaDi-Page/">Yang Cheng</a><sup>1</sup>,
+  <a href="https://sen-mao.github.io/">Senmao Li</a><sup>1</sup>,
+  <a href="https://github.com/Martinser">Ge Wu</a><sup>1</sup>,
+  <a href="https://yaxingwang.github.io/">Yaxing Wang</a><sup>1,3&dagger;</sup>
+  <a href="https://scholar.google.com.hk/citations?user=6CIDtZQAAAAJ&hl=en">Jian Yang</a><sup>1,2&dagger;</sup>
+</div>
+
+<div align="center">
+  <sup>1</sup> PCA Lab, VCIP, College of Computer Science, Nankai University &nbsp;&nbsp;
+  <sup>2</sup> PCA Lab, School of Intelligence Science and Technology, Nanjing University &nbsp;&nbsp;
+  <sup>3</sup> Shenzhen Futian, NKIARI &nbsp;&nbsp;
+</div>
+
+<div align="center">
+  &dagger;Corresponding authors
+</div>
+
+<div align="center">
 <img src="./abstract.png" alt="demo" style="zoom:150%;" />
   <br>
 </div>
