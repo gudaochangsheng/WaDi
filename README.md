@@ -6,7 +6,12 @@
 
 # 🚀 [CVPR 2026]WaDi: Weight Direction-aware Distillation for One-step Image Synthesis
 
-[![arXiv](https://img.shields.io/badge/arXiv-WaDi-<COLOR>.svg)](https://arxiv.org/abs/2603.08258) [![arXiv](https://img.shields.io/badge/paper-WaDi-b31b1b.svg)](https://arxiv.org/pdf/2603.08258) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/WaDi )
+[![arXiv](https://img.shields.io/badge/arXiv-WaDi-<COLOR>.svg)](https://arxiv.org/abs/2603.08258) [![arXiv](https://img.shields.io/badge/paper-WaDi-b31b1b.svg)](https://arxiv.org/pdf/2603.08258) ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/WaDi ) [![HF-SD2.1](https://img.shields.io/badge/HF-WaDi--sd2.1-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors) [![HF-SD1.5](https://img.shields.io/badge/HF-WaDi--sd1.5-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors) [![HF-Pixart-Alpha](https://img.shields.io/badge/HF-WaDi--pixart-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors)
+[![MS-SD2.1](https://img.shields.io/badge/ModelScope-WaDi--sd2.1-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2)
+[![MS-SD1.5](https://img.shields.io/badge/ModelScope-WaDi--sd1.5-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2)
+[![MS-Pixart-alpha](https://img.shields.io/badge/ModelScope-WaDi--pixart-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2)
+[![Code](https://img.shields.io/badge/Code-WaDi-black?style=flat&logo=github)](https://github.com/gudaochangsheng/WaDi)
+[![Project Page](https://img.shields.io/badge/Project-Page-2ea44f?style=flat-square)](https://gudaochangsheng.github.io/WaDi-Page/)
 
 <div align="center">
   <a href="https://gudaochangsheng.github.io/">Lei Wang</a><sup>1</sup>,
