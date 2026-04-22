@@ -6,6 +6,8 @@
 
 <h1 align="center">🚀 WaDi: Weight Direction-aware Distillation for One-step Image Synthesis</h1>
 
+<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.  </h2>
+
 <p align="center">
   <b>CVPR 2026</b>
 </p>
