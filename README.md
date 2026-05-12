@@ -12,12 +12,13 @@
   <b>CVPR 2026</b>
 </p>
 
-<h2 align="center">🚀 Try WaDi-1.5 Online</h2>
+
+<h2 align="center">🚀 Try WaDi Online</h2>
 
 <p align="center">
   <a href="https://huggingface.co/spaces/gudaochangsheng/WaDi-1.5">
     <img
-      src="https://img.shields.io/badge/Live%20Demo-WaDi--1.5%20Space-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black"
+      src="https://img.shields.io/badge/🤗%20Live%20Demo-WaDi--1.5%20Space-FFB000?style=for-the-badge&labelColor=FFE8A3&color=FFB000"
       alt="WaDi-1.5 Hugging Face Space"
     />
   </a>
