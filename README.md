@@ -36,12 +36,25 @@
   <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors"><img src="https://img.shields.io/badge/HF-WaDi--SD2.1-yellow?logo=huggingface" alt="HF SD2.1"></a>
   <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors"><img src="https://img.shields.io/badge/HF-WaDi--SD1.5-yellow?logo=huggingface" alt="HF SD1.5"></a>
   <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors"><img src="https://img.shields.io/badge/HF-WaDi--PixArt-yellow?logo=huggingface" alt="HF PixArt"></a>
+  <a href="https://www.youtube.com/watch?v=j6CuQxynJcA"><img src="https://img.shields.io/badge/YouTube-Video%20Presentation-FF0000?logo=youtube&logoColor=white" alt="YouTube Video Presentation"></a>
 </p>
 
 <p align="center">
   <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2"><img src="https://img.shields.io/badge/ModelScope-WaDi--SD2.1-blue" alt="MS SD2.1"></a>
   <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2"><img src="https://img.shields.io/badge/ModelScope-WaDi--SD1.5-blue" alt="MS SD1.5"></a>
   <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2"><img src="https://img.shields.io/badge/ModelScope-WaDi--PixArt-blue" alt="MS PixArt"></a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j6CuQxynJcA">
+    <img src="https://img.youtube.com/vi/j6CuQxynJcA/maxresdefault.jpg" width="80%" alt="WaDi Video Presentation">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j6CuQxynJcA">
+    🎬 Watch Video Presentation
+  </a>
 </p>
 
 <div align="center">
