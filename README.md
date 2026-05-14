@@ -257,6 +257,4 @@ We also sincerely acknowledge the inspiring prior work:
 
 ## 📮 Contact
 
-If you have any questions, please feel free to contact:
-
-`scitop1998@gmail.com`
+If you have any questions, please feel free to contact: `scitop1998@gmail.com`
