@@ -33,6 +33,7 @@
   <a href="https://arxiv.org/pdf/2603.08258"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper PDF"></a>
   <a href="https://gudaochangsheng.github.io/WaDi-Page/"><img src="https://img.shields.io/badge/Project-Page-2ea44f?style=flat-square" alt="Project Page"></a>
   <a href="https://github.com/gudaochangsheng/WaDi"><img src="https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github" alt="Code"></a>
+  <a href="https://mp.weixin.qq.com/s/2wkWRmyaLMvAFLeyF0cVKQ"><img src="https://img.shields.io/badge/中文解读-WeChat-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/WaDi" alt="Visitors">
 </p>
 
