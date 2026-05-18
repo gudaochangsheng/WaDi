@@ -13,43 +13,85 @@
 </p>
 
 
-<h2 align="center">🚀 Try WaDi Online</h2>
 
-<p align="center">
+<div align="center">
+
+<h2>🚀 Try WaDi Online</h2>
+
+<p>
   <a href="https://huggingface.co/spaces/gudaochangsheng/WaDi-1.5">
     <img
-      src="https://img.shields.io/badge/🤗%20Live%20Demo-WaDi--1.5%20Space-FFB000?style=for-the-badge&labelColor=FFE8A3&color=FFB000"
-      alt="WaDi-1.5 Hugging Face Space"
+      src="https://img.shields.io/badge/Launch%20Demo-WaDi--1.5%20HuggingFace%20Space-FFB000?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=111827"
+      alt="Launch WaDi Demo"
     />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=1&section=header&reversal=false" width="100%" />
+<p>
+  <b>One-step image generation demo powered by WaDi.</b>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=1&section=header&reversal=false" width="100%" />
+
+</div>
+
+<!-- Paper / Project -->
 <p align="center">
-  <a href="https://arxiv.org/abs/2603.08258"><img src="https://img.shields.io/badge/arXiv-2603.08258-b31b1b.svg" alt="arXiv"></a>
-  <a href="https://arxiv.org/pdf/2603.08258"><img src="https://img.shields.io/badge/Paper-PDF-red.svg" alt="Paper PDF"></a>
-  <a href="https://gudaochangsheng.github.io/WaDi-Page/"><img src="https://img.shields.io/badge/Project-Page-2ea44f?style=flat-square" alt="Project Page"></a>
-  <a href="https://github.com/gudaochangsheng/WaDi"><img src="https://img.shields.io/badge/Code-GitHub-black?style=flat&logo=github" alt="Code"></a>
-  <a href="https://mp.weixin.qq.com/s/2wkWRmyaLMvAFLeyF0cVKQ"><img src="https://img.shields.io/badge/中文解读-WeChat-07C160?style=flat&logo=wechat&logoColor=white" alt="WeChat"></a>
+  <a href="https://arxiv.org/abs/2603.08258">
+    <img src="https://img.shields.io/badge/arXiv-2603.08258-b31b1b?style=flat-square" alt="arXiv">
+  </a>
+  <a href="https://arxiv.org/pdf/2603.08258">
+    <img src="https://img.shields.io/badge/Paper-PDF-red?style=flat-square" alt="Paper PDF">
+  </a>
+  <a href="https://gudaochangsheng.github.io/WaDi-Page/">
+    <img src="https://img.shields.io/badge/Project-Page-2ea44f?style=flat-square" alt="Project Page">
+  </a>
+  <a href="https://github.com/gudaochangsheng/WaDi">
+    <img src="https://img.shields.io/badge/Code-GitHub-black?style=flat-square&logo=github" alt="Code">
+  </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gudaochangsheng/WaDi" alt="Visitors">
 </p>
 
+<!-- Models: Hugging Face -->
 <p align="center">
-  <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors"><img src="https://img.shields.io/badge/HF-WaDi--SD2.1-yellow?logo=huggingface" alt="HF SD2.1"></a>
-  <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors"><img src="https://img.shields.io/badge/HF-WaDi--SD1.5-yellow?logo=huggingface" alt="HF SD1.5"></a>
-  <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors"><img src="https://img.shields.io/badge/HF-WaDi--PixArt-yellow?logo=huggingface" alt="HF PixArt"></a>
-  <a href="https://www.youtube.com/watch?v=j6CuQxynJcA"><img src="https://img.shields.io/badge/YouTube-Video%20Presentation-FF0000?logo=youtube&logoColor=white" alt="YouTube Video Presentation"></a>
+  <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors">
+    <img src="https://img.shields.io/badge/HuggingFace-WaDi--SD2.1-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HF SD2.1">
+  </a>
+  <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors">
+    <img src="https://img.shields.io/badge/HuggingFace-WaDi--SD1.5-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HF SD1.5">
+  </a>
+  <a href="https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors">
+    <img src="https://img.shields.io/badge/HuggingFace-WaDi--PixArt-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HF PixArt">
+  </a>
 </p>
 
+<!-- Models: ModelScope -->
 <p align="center">
-  <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2"><img src="https://img.shields.io/badge/ModelScope-WaDi--SD2.1-blue" alt="MS SD2.1"></a>
-  <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2"><img src="https://img.shields.io/badge/ModelScope-WaDi--SD1.5-blue" alt="MS SD1.5"></a>
-  <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2"><img src="https://img.shields.io/badge/ModelScope-WaDi--PixArt-blue" alt="MS PixArt"></a>
-  <a href="https://zhuanlan.zhihu.com/p/2038304355946866536"><img src="https://img.shields.io/badge/Zhihu-Article-0084FF?style=flat-square&logo=zhihu&logoColor=white" /></a>
-  <a href="https://blog.csdn.net/wl1780852311/article/details/161194380"><img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN Blog"></a>
+  <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2">
+    <img src="https://img.shields.io/badge/ModelScope-WaDi--SD2.1-1677ff?style=flat-square" alt="ModelScope SD2.1">
+  </a>
+  <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2">
+    <img src="https://img.shields.io/badge/ModelScope-WaDi--SD1.5-1677ff?style=flat-square" alt="ModelScope SD1.5">
+  </a>
+  <a href="https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2">
+    <img src="https://img.shields.io/badge/ModelScope-WaDi--PixArt-1677ff?style=flat-square" alt="ModelScope PixArt">
+  </a>
+</p>
+
+<!-- Media / Blogs -->
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=j6CuQxynJcA">
+    <img src="https://img.shields.io/badge/YouTube-Video%20Presentation-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Video Presentation">
+  </a>
+  <a href="https://mp.weixin.qq.com/s/2wkWRmyaLMvAFLeyF0cVKQ">
+    <img src="https://img.shields.io/badge/中文解读-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat">
+  </a>
+  <a href="https://zhuanlan.zhihu.com/p/2038304355946866536">
+    <img src="https://img.shields.io/badge/Zhihu-Article-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu Article">
+  </a>
+  <a href="https://blog.csdn.net/wl1780852311/article/details/161194380">
+    <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN Blog">
+  </a>
 </p>
 
 
