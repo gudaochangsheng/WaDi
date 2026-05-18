@@ -1,8 +1,12 @@
-
+<p align="center">
+  <img src="wadi-star.png" alt="WaDi Star History" width="80%">
+</p>
 
 <div align="center">
   <img src="./wadi-logo.png" alt="WaDi logo" width="120" />
 </div>
+
+
 
 <h1 align="center">🚀 WaDi: Weight Direction-aware Distillation for One-step Image Synthesis</h1>
 
