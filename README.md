@@ -17,23 +17,37 @@
 <div align="center">
 
 <h2>🚀 Try WaDi Online</h2>
+<a href="https://huggingface.co/spaces/gudaochangsheng/WaDi-1.5">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2500&pause=1000&color=FFB000&center=true&vCenter=true&width=520&lines=Try+WaDi-1.5+Online;One-step+Image+Generation+Demo;Run+Directly+in+Your+Browser"
+    alt="Try WaDi Online"
+  />
+</a>
 
-<p>
-  <a href="https://huggingface.co/spaces/gudaochangsheng/WaDi-1.5">
-    <img
-      src="https://img.shields.io/badge/Launch%20Demo-WaDi--1.5%20HuggingFace%20Space-FFB000?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=111827"
-      alt="Launch WaDi Demo"
-    />
-  </a>
-</p>
+<br>
 
-<p>
-  <b>One-step image generation demo powered by WaDi.</b>
-</p>
+<table>
+  <tr>
+    <td align="center" width="560">
+      <br>
+      <a href="https://huggingface.co/spaces/gudaochangsheng/WaDi-1.5">
+        <img src="https://img.shields.io/badge/🤗%20Launch%20WaDi--1.5%20Demo-Hugging%20Face%20Space-FFB000?style=for-the-badge&labelColor=111827&color=FFB000" alt="Launch WaDi Demo">
+      </a>
+      <br><br>
+      <b>One-step image generation in your browser</b>
+      <br>
+      <sub>No installation · Online inference · WaDi-SD1.5</sub>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=e5e7eb&height=1&section=header&reversal=false" width="100%" />
 
 </div>
+
 
 <!-- Paper / Project -->
 <p align="center">
@@ -93,6 +107,8 @@
     <img src="https://img.shields.io/badge/CSDN-Blog-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN Blog">
   </a>
 </p>
+
+
 
 
 
