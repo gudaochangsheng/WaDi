@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="wadi-star.png" alt="WaDi Star History" width="80%">
 </p>
@@ -234,11 +236,15 @@ WaDi achieves **state-of-the-art FID** on **COCO 2014** and **COCO 2017** while 
 
 | Model | Architecture | Hugging Face | ModelScope |
 |-------|--------------|--------------|------------|
-| WaDi-SD2.1 | U-Net | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2) |
-| WaDi-SD1.5 | U-Net | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2) |
-| WaDi-PixArt | DiT | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2) |
+| WaDi-SD2.1 | U-Net | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv2-1.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv2-1.safetensors?status=2) <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmodelscope.cn%2Fapi%2Fv1%2Fmodels%2Fgudaochangsheng98%2FRefAlign-14B&query=%24.Data.Downloads&label=Downloads&color=624aff&logo=modelscope" alt="ModelScope Downloads"> |
+| WaDi-SD1.5 | U-Net | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_unet-sdv1-5.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_unet-sdv1-5.safetensors?status=2) <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmodelscope.cn%2Fapi%2Fv1%2Fmodels%2Fgudaochangsheng98%2FRefAlign-14B&query=%24.Data.Downloads&label=Downloads&color=624aff&logo=modelscope" alt="ModelScope Downloads"> |
+| WaDi-PixArt | DiT | [![Download HF](https://img.shields.io/badge/HuggingFace-Download-yellow?logo=huggingface)](https://huggingface.co/gudaochangsheng/WaDi/blob/main/rotated_transformer.safetensors) | [![Download MS](https://img.shields.io/badge/ModelScope-Download-blue)](https://modelscope.cn/models/gudaochangsheng98/WaDi/file/view/master/rotated_transformer.safetensors?status=2) <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmodelscope.cn%2Fapi%2Fv1%2Fmodels%2Fgudaochangsheng98%2FRefAlign-14B&query=%24.Data.Downloads&label=Downloads&color=624aff&logo=modelscope" alt="ModelScope Downloads"> |
 
 ---
+
+<a href="https://modelscope.cn/models/gudaochangsheng98/RefAlign-14B">
+  
+</a>
 
 ## 🛠️ Installation
 
