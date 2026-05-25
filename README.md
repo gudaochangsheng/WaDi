@@ -57,6 +57,12 @@
 
 <!-- Paper / Project -->
 <p align="center">
+  <a href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_WaDi_Weight_Direction-aware_Distillation_for_One-step_Image_Synthesis_CVPR_2026_paper.pdf">
+  <img
+    src="https://img.shields.io/badge/CVPR%202026-Paper%20PDF-blue?style=flat-square"
+    alt="CVPR 2026 Paper PDF"
+  />
+</a>
   <a href="https://arxiv.org/abs/2603.08258">
     <img src="https://img.shields.io/badge/arXiv-2603.08258-b31b1b?style=flat-square" alt="arXiv">
   </a>
