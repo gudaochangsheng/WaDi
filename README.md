@@ -313,11 +313,13 @@ python infer_pixart.py
 If you find **WaDi** useful, please consider giving this repository a **star** ⭐ and citing our paper.
 
 ```bibtex
-@article{wang2026wadi,
-  title={WaDi: Weight Direction-aware Distillation for One-step Image Synthesis},
-  author={Wang, Lei and Cheng, Yang and Li, Senmao and Wu, Ge and Wang, Yaxing and Yang, Jian},
-  journal={arXiv preprint arXiv:2603.08258},
-  year={2026}
+@InProceedings{Wang_2026_CVPR,
+    author    = {Wang, Lei and Cheng, Yang and Li, Senmao and Wu, Ge and Wang, Yaxing and Yang, Jian},
+    title     = {WaDi: Weight Direction-aware Distillation for One-step Image Synthesis},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2026},
+    pages     = {5574-5584}
 }
 
 @inproceedings{li2025one,
