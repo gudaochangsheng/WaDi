@@ -101,8 +101,23 @@
 <!-- Media / Blogs -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=j6CuQxynJcA">
-    <img src="https://img.shields.io/badge/YouTube-Video%20Presentation-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube Video Presentation">
-  </a>
+  <img
+    src="https://img.shields.io/badge/YouTube-Video%20Presentation-FF0000?style=flat-square&logo=youtube&logoColor=white"
+    alt="YouTube Video Presentation"
+  />
+</a>
+<a href="https://www.youtube.com/watch?v=j6CuQxynJcA">
+  <img
+    src="https://img.shields.io/youtube/views/j6CuQxynJcA?style=flat-square&logo=youtube&label=Views&color=red"
+    alt="YouTube Views"
+  />
+</a>
+<a href="https://www.youtube.com/watch?v=j6CuQxynJcA">
+  <img
+    src="https://img.shields.io/youtube/comments/j6CuQxynJcA?style=flat-square&logo=youtube&label=Comments&color=red"
+    alt="YouTube Comments"
+  />
+</a>
   <a href="https://mp.weixin.qq.com/s/2wkWRmyaLMvAFLeyF0cVKQ">
     <img src="https://img.shields.io/badge/中文解读-WeChat-07C160?style=flat-square&logo=wechat&logoColor=white" alt="WeChat">
   </a>
