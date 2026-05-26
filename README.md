@@ -170,7 +170,14 @@
   † Corresponding authors
 </div>
 
+## 📰 News
+
+- **[May 23, 2026]** WaDi has been officially published in **CVPR 2026, Denver, Colorado [Main Conference]**.
+
+
+
 ---
+
 
 ## 🔥 Highlights
 
